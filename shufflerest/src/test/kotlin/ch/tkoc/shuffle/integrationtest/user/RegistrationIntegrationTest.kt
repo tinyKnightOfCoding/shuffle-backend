@@ -1,4 +1,4 @@
-package ch.tkoc.shuffle.user
+package ch.tkoc.shuffle.integrationtest.user
 
 import ch.tkoc.shuffle.user.model.RegisterRequest
 import ch.tkoc.shuffle.user.service.UserDataService
